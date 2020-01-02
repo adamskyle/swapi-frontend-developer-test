@@ -4,7 +4,7 @@ Using either Vue (preferably) or React framework, build a star wars directory us
 
 ## Website layout
 
-The test creators created a design for you to use to build your site. Layout files can be found [here](https://scene.zeplin.io/project/5d122e4c5259df7049ad9655)
+The test creators created a design for you to use to build your site. Layout files can be found [here](https://51north.nl/projects/frontend-test-swapi/)
 
 -   this should only serve as a guide for what your final site should try as much as possible to replicate
 -   we're aware that the designs are desktop only. Responsiveness is all up to you.
@@ -29,7 +29,6 @@ A single page application using either Vue (preferably) or React featuring:
 -   User can view a list of starships, list item should contain name, model and cargo capacity.
 -   User can see full details of selected person, planet or starship, you can ignore data containing links in the JSON response.
 -   For each listing, user can search using name to filter the list.
--   User should be able to filter based on gender in the people section (male, female, robot)
 -   Display data with pagination
 
 ## Nice to have
@@ -50,6 +49,7 @@ The following items will earn you bonus points. They are not requirements, the c
 
 -   Use Vue which is the preferred framework
 -   Map main characters images to their keys
+-   User should be able to filter based on gender in the people section (male, female, robot)
 -   Statically rendered, SEO Friendly pages
 
 ## Time Duration
