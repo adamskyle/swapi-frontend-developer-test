@@ -1,6 +1,6 @@
 # Front-end Developer Test
 
-Using either Vue (preferably) or React framework, build a star wars directory using [SWAPI](https://swapi.co/), which has all api endpoints required for the application.
+Using either Vue (preferably) or React framework, build a star wars directory using [SWAPI](https://swapi.dev/), which has all api endpoints required for the application.
 
 ## Website layout
 
