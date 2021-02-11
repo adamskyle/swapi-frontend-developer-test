@@ -8,7 +8,7 @@ The test creators created a design for you to use to build your site. Layout fil
 
 -   this should only serve as a guide for what your final site should try as much as possible to replicate
 -   we're aware that the designs are desktop only. Responsiveness is all up to you.
--   the images visible in the design above for Characters/Starships/Planets cannot (unfortunately) be gotten from the [SWAPI](https://swapi.co/), as it doesn't provide images in it's responses. Because of this, we've provided an assets folder with images you can use instead.
+-   the images visible in the design above for Characters/Starships/Planets cannot (unfortunately) be gotten from the [SWAPI](https://swapi.dev/), as it doesn't provide images in it's responses. Because of this, we've provided an assets folder with images you can use instead.
 
 **Note:** The assets provided (with the exception of the logo and hero-banner) are simply placeholder images to help your site look/feel more complete in the _'Popular Starships'_ and _'Starwars Characters'_ pages. We do **not** expect you to programmatically map characters/ships to their respective images in those pages (except as a nice to have). We do however expect you to try to replicate the _home page_ as much as possible.
 
