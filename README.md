@@ -25,14 +25,14 @@ A single page application using either Vue (preferably) or React featuring:
 ## Functional requirements
 
 -   User can view a list of people (humans & robots), list item should contain full name, birth year and gender
--   User can view a list of planets, list item should contain name, temperature and population.
--   User can view a list of starships, list item should contain name, model and cargo capacity.
--   User can see full details of selected person, planet or starship, you can ignore data containing links in the JSON response.
--   For each listing, user can search using name to filter the list.
--   Display data with pagination
+-   User can view a list of planets, list item should contain name, temperature and population
+-   User can view a list of starships, list item should contain name, model and cargo capacity
+-   User can see full details of selected person, planet or starship, you can ignore data containing links in the JSON response
 
 ## Nice to have
 
+-   For each listing, user can search using name to filter the list
+-   Display data with pagination
 -   Good sense of design 👌🏾
 -   Include animations & micro-interactions 👌🏾
 
@@ -54,7 +54,7 @@ The following items will earn you bonus points. They are not requirements, the c
 
 ## Time Duration
 
-There is time limit. If you want to go all-out for bonus points and nice-to-haves, that's up to you.
+There is no time limit. If you want to go all-out for bonus points and nice-to-haves, that's up to you.
 
 But keep track of the time spent to get to the final result.
 
